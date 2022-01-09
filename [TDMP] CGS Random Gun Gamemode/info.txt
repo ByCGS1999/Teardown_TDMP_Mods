@@ -1,0 +1,3 @@
+name = [TDMP] CGS Random Gun
+author = CGS1999
+description = This mod contains a gamemode for TDMP
