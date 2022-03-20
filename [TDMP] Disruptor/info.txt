@@ -1,0 +1,5 @@
+name = TDMP Disruptor Weapon 
+author = BattleBob72
+description = A GRAVITY-VORTEX-TIME based DISRUPTOR Weapon..... PRIMARY Blaster is RAPID FIRE Capable..... SECONDARY Blaster Shoots a ZOOMED in SLOWMO Big Blast..... Unique SIGHTING RINGS................................. *** Updated Features ***..... The Multiple Sight Rings now "GLOW in the DARK"..... Random, Bigger PARTICLE EFFECTS on the Secondary Big Blast..... Blaster sound volume now adjusts with "Hit" distance..... Slowmo removed while driving vehicles.
+  
+tags = Tool
