@@ -57,7 +57,7 @@ function init()
 			TDMP_ServerStartEvent('disruptor_shoot_unpressed',{
 				Reciever = TDMP.Enums.Reciever.ClientsOnly,
 				Reliable=true,
-
+				DontPack = true,
 				Data=orgData
 			})
 	end)
@@ -133,6 +133,7 @@ function init()
 			TDMP_ServerStartEvent('disruptor_shoot_aiming',{
 				Reciever = TDMP.Enums.Reciever.ClientsOnly,
 				Reliable=true,
+				DontPack = true,
 				Data=orgData
 			})
 	end)
@@ -174,7 +175,7 @@ function init()
 			TDMP_ServerStartEvent('disruptor_shoot_basic',{
 				Reciever = TDMP.Enums.Reciever.ClientsOnly,
 				Reliable=true,
-				
+				DontPack = true,
 				Data=orgData
 			})
 	end)
